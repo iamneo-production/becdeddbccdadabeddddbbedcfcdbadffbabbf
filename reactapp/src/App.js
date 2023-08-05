@@ -1,12 +1,12 @@
 import './App.css';
-import StopWatch from './Components/StopWatch/StopWatch.jsx';
+import StopWatch from './components/Stopwatch/Stopwatch.jsx';
 
 function App() {
 return (
 	<div className="outer">
 		
 		<div className="App">
-			
+		c
 		<StopWatch />
 		</div>
 	</div>
